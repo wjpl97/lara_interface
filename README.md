@@ -2,9 +2,14 @@
 Repositorio de prueba para plantillas blade con laravel
 
 # Carpeta routes
-- Simplemente verficar el archivo web.php
+- Simplemente verficar el archivo **web.php**
 
--En la caperta resources/views
---Verificar la jerarquía de carpetas y como se relacionan entre sí los archivos
+# Caperta resources/views
+- Verificar la jerarquía de carpetas y como se relacionan entre sí los archivos.
+* includes
+  * footer.blade.php
+  * head.blade.php
+  * header.blade.php
 
-# Este proyecto no contiene la carpeta vendor
+# Nota
+_Este proyecto no cotiene la carpeta vendor ni los archivos adicionales de raíz_
